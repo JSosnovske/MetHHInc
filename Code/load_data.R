@@ -17,3 +17,5 @@ myplot <- ggplot(portland_tract_medhhinc) +
   theme_minimal()
 ggsave("docs/mymap.pdf", myplot)
 mapview(portland_tract_medhhinc %>% select(estimate), col.regions=sf.colors(10), alpha=0.1)
+
+## Great job finding the new room after lunch! :) ##
