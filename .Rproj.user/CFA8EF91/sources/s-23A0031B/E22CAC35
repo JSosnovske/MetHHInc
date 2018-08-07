@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1533662283077.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E22CAC35",
+    "lastKnownWriteTime" : 1533664520,
+    "last_content_update" : 1533664520691,
+    "path" : "~/MedHHInc/Code/load_data.R",
+    "project_path" : "Code/load_data.R",
+    "properties" : {
+        "cursorPosition" : "6,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
